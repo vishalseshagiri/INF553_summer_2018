@@ -4,3 +4,6 @@
 [submodule "INF553_Assignment_2"]
 	path = INF553_Assignment_2
 	url = git@github.com:vishalseshagiri/INF553_Assignment_2.git
+[submodule "INF553_Assignment_3"]
+	path = INF553_Assignment_3
+	url = git@github.com:vishalseshagiri/INF553_Assignment_3.git
